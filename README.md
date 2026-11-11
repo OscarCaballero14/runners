@@ -68,7 +68,7 @@ proyecto/
 │   │   └── 002_crear_roles.sql
 │   └── seeds/             # archivos .sql de datos iniciales
 │       └── 001_roles_iniciales.sql
-└── <carpeta-de-scripts>/
+└── <scripts>/
     ├── migrate.js
     └── seed.js
 ```
